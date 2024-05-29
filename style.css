@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: aquamarine;
+}
+
+.time{
+    margin-top: 250px;
+    color: blue;
+    font-size: 40px;
+    letter-spacing: 20px;
+    font-weight: 600;
+}
+
